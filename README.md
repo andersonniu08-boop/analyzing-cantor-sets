@@ -1,4 +1,4 @@
-# Cantor Set Toolkit
+# Cantor Set Analysis
 
 A computational and visualization toolkit for exploring the Cantor set, its finite-stage constructions, and the Cantor function.  
 
@@ -18,7 +18,7 @@ This toolkit provides:
 
 ---
 
-## definitions
+## Definitions
 
 ### The Cantor Set
 
@@ -55,7 +55,7 @@ $$
 C = \bigcap_{n = 0}^{\infty} C_n.
 $$
 
-Thus, we can obser the following characteristics of a cantor set:
+It is:
 
 - uncountable  
 - perfect  
