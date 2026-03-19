@@ -39,7 +39,7 @@ $$
 leaving:
 
 $$
-C_1 = [0, 1/3] \cup [2/3, 1].
+C_1 = [0, \frac{1}{3}] \cup [2/3, 1].
 $$
 
 Repeating this gives:
