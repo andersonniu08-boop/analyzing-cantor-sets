@@ -45,7 +45,7 @@ $$
 Repeating this gives:
 
 $$
-C_{n+1} = \frac{1}{3}C_n \;\cup\; 
+C_{n+1} = \frac{1}{3}C_n \ \cup\ 
 \left( \frac{2}{3} + \frac{1}{3}C_n \right).
 $$
 
