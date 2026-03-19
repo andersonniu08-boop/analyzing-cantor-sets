@@ -33,13 +33,13 @@ $$
 Remove the middle third:
 
 $$
-(1/3, \; 2/3),
+(\frac{1}{3}, \; \frac{2}{3}),
 $$
 
 leaving:
 
 $$
-C_1 = [0, \frac{1}{3}] \cup [2/3, 1].
+C_1 = [0, \frac{1}{3}] \cup [\frac{2}{3}, 1].
 $$
 
 Repeating this gives:
