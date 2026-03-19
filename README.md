@@ -33,7 +33,7 @@ $$
 Remove the middle third:
 
 $$
-(\frac{1}{3}, \; \frac{2}{3}),
+(\frac{1}{3},  \frac{2}{3}),
 $$
 
 leaving:
